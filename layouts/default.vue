@@ -67,9 +67,3 @@ export default {
   }
 };
 </script>
-
-
-<style>
-@import "@/assets/css/dashboard.css";
-
-</style>
